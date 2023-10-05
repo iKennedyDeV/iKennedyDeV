@@ -4,7 +4,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iKennedyDeV&show_icons=true&theme=dark)
 
-
 <div id="badges" >
   <a href = "https://www.linkedin.com/in/renan-kenedy-602154248/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
