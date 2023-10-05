@@ -3,7 +3,7 @@
 <p >Brasil - São Paulo</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iKennedyDeV&show_icons=true&theme=dark)
-<img src="https://raw.githubusercontent.com/iKennedyDeV/jnszz/main/githubgif.webp" />
+
 
 <div id="badges" >
   <a href = "https://www.linkedin.com/in/renan-kenedy-602154248/">
