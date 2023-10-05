@@ -17,7 +17,7 @@
   <a href="HTTPS://wa.me/5511919369878" > <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
 
 </div>
-<h2>Tecnologia usadas </h2>
+<h2>Tecnologias Usadas </h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css3" alt="Css3" width="40" height="40"/>&nbsp;
