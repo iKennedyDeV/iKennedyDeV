@@ -1,4 +1,4 @@
-<h2 >Olá eu sou Renan Kenedy !!</h2>
+<h2 >Olá eu sou Renan Kenedy 🧑🏻!!</h2>
 <p>Eu quero ser um programador Full-Stack </p>
 <p>Brasil - São Paulo</p>
 
