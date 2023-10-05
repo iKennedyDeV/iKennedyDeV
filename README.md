@@ -1,9 +1,7 @@
 
-<img align="right" src="https://raw.githubusercontent.com/gist/jnsZz/faabe3067ccf67838fdb984a52abdf77/raw/63a562da32ba1b7d55a527cc1a39dd155517cb5a/lateral.svg" alt="lateralimg"/>
-</div>
 
 <h2 align="center">Hello my name is Renan!!</h2>
-<p align="center">I want to be a big Dev </p>
+<p align="center">I want to be a Full-Stack </p>
 <p align="center">Brasil -  São Paulo</p>
 <div id="badges" align="center">
   <a href = "https://www.linkedin.com/in/renan-kenedy-602154248/">
@@ -19,8 +17,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css3" alt="Css3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   
 </div>
 <h2>Operating system</h2>
@@ -30,16 +29,11 @@
 <h2>Study Platforms</h2>
 <div>
 <a href="https://www.alura.com.br">
-  <img src="https://pbs.twimg.com/profile_images/1465517409058570248/EBGK2oya_400x400.jpg" alt="Alura" width="40" height="40"/>&nbsp;
-</a>
-<a href="https://www.rocketseat.com.br">
-  <img src="https://yt3.ggpht.com/ytc/AMLnZu9-n9mDtKOwVMx3_-2zr8H57lHFag5t-0JcJNFPUQ=s900-c-k-c0x00ffffff-no-rj" alt="RocketSeat" width="40" height="40"/>&nbsp;
+  <img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" alt="Alura" width="40" height="40"/>&nbsp;
 </a>
 <a href="https://www.cursoemvideo.com">
 <img src="https://yt3.ggpht.com/a/AGF-l7_dZK1YbhL-UVXQH8M1L6NEtKKTQCkhXhQ7Aw=s176-c-k-c0x00ffffff-no-rj-mo" alt="Curso em Video" width="40" height="40"/>&nbsp;
 </a>
-<a href="https://www.freecodecamp.org">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyPKSsTtfHHNzzIzjCy4T6ILgaAQGKJd49sw&usqp=CAU" alt="FreecodeCamp" width="40" height="40"/>&nbsp;
 </div>
 <h2 align="center">Thanks!! For visiting my profile 😎 !</h2>
 <div align="center">
