@@ -44,6 +44,6 @@
 </div>
 <h2 align="center">Obrigado Pela visita em meu Perfil 😉!</h2>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=iKennedyDeV&style=for-the-badge&color=lightgray"/>
+<img src="https://komarev.com/ghpvc/?username=iKennedyDeV&style=for-the-badge&color=brightgreen"/>
 </div>
 
