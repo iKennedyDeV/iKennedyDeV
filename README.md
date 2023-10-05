@@ -1,6 +1,6 @@
-<h2 >Hello my name is Renan!!</h2>
+<h2 >Hello i am Renan Kenedy !!</h2>
 <p >I want to be a Full-Stack </p>
-<p >Brasil -  São Paulo</p>
+<p >Brasil - São Paulo</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iKennedyDeV&show_icons=true&theme=dark)
 <img src="https://raw.githubusercontent.com/iKennedyDeV/jnszz/main/githubgif.webp" />
@@ -15,6 +15,7 @@
   <a href = "mailto:renan.kenedy.10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://discord.gg/KAQbJyJ6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a> href = "HTTPS://wa.me/5511919369878" > <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
 
 </div>
 <h2>Technologies I use</h2>
