@@ -1,17 +1,20 @@
+<h2 >Hello my name is Renan!!</h2>
+<p >I want to be a Full-Stack </p>
+<p >Brasil -  São Paulo</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iKennedyDeV/jnszz/main/githubgif.webp" />
-</p>
-<h2 align="center">Hello my name is Renan!!</h2>
-<p align="center">I want to be a Full-Stack </p>
-<p align="center">Brasil -  São Paulo</p>
-<div id="badges" align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iKennedyDeV&show_icons=true&theme=dark)
+<img src="https://raw.githubusercontent.com/iKennedyDeV/jnszz/main/githubgif.webp" />
+
+<div id="badges" >
   <a href = "https://www.linkedin.com/in/renan-kenedy-602154248/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href = "https://www.instagram.com/rkennedyy_/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <a href = "mailto:renan.kenedy.10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://discord.gg/KAQbJyJ6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 </div>
 <h2>Technologies I use</h2>
@@ -24,6 +27,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iKennedyDeV&layout=compact&theme=dark)
 <h2>Operating system</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows8" alt="windows8" width="40" height="40"/>&nbsp;
