@@ -44,6 +44,9 @@
 <a href="https://www.cursoemvideo.com">
 <img src="https://yt3.ggpht.com/a/AGF-l7_dZK1YbhL-UVXQH8M1L6NEtKKTQCkhXhQ7Aw=s176-c-k-c0x00ffffff-no-rj-mo" alt="Curso em Video" width="40" height="40"/>&nbsp;
 </a>
+  <a href=https://on.fiap.com.br/local/nanocourses/index.php">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fiap-logo-novo.jpg" alt="Curso em Video" width="40" height="40"/>&nbsp;
+  </a>
 </div>
 <h2 align="center">Obrigado Pela visita em meu Perfil 😉!</h2>
 <div align="center">
