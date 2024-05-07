@@ -17,7 +17,7 @@
   <a href="HTTPS://wa.me/5511919369878" > <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
 
 </div>
-<h2>Tecnologias Usadas </h2>
+<h2>🛠️ Tecnologias Usadas </h2>
 <div>
   <div>
   <h3>🧑🏻‍💻 Back-End</h3>
@@ -41,11 +41,11 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iKennedyDeV&layout=compact&theme=dark)
 
-<h2>Sistema Operacional</h2>
+<h2>🖥️ Sistema Operacional</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows8" alt="windows8" width="40" height="40"/>&nbsp;
 </div>
-<h2>Plataforma de Estudo</h2>
+<h2>📖 Plataforma de Estudo</h2>
 <div>
 <a href="https://www.alura.com.br">
   <img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" alt="Alura" width="40" height="40"/>&nbsp;
@@ -55,6 +55,9 @@
 </a>
   <a href=https://on.fiap.com.br/local/nanocourses/index.php">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fiap-logo-novo.jpg" alt="Curso em Video" width="40" height="40"/>&nbsp;
+  </a>
+<a href="https://www.dio.me/">
+<img src="https://hermes.dio.me/assets/diome/logo.png" alt="dio.me" width="60" height="40"/>&nbsp;
   </a>
 </div>
 <h2 align="center">Obrigado Pela visita em meu Perfil 😉!</h2>
